@@ -12,10 +12,6 @@
     "mocha": "mocha -R spec test --recursive",
     "lint": "eslint index.js **/*js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/villadora/express-http-proxy.git"
-  },
   "keywords": [
     "express-http-proxy"
   ],
