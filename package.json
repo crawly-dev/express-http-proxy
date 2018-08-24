@@ -28,7 +28,6 @@
     "chai": "^4.1.2",
     "cookie-parser": "^1.4.3",
     "eslint": "^4.19.1",
-    "crawly-express": "^4.99.102",
     "jscs": "^3.0.7",
     "jshint": "^2.9.5",
     "mocha": "^3.5.0",
@@ -37,7 +36,8 @@
   "dependencies": {
     "debug": "^3.0.1",
     "es6-promise": "^4.1.1",
-    "raw-body": "^2.3.0"
+    "raw-body": "^2.3.0",
+    "crawly-express": "^4.99.102"
   },
   "contributors": [
     {
