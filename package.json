@@ -1,6 +1,6 @@
 {
   "name": "crawly-express-http-proxy2",
-  "version": "1.99.0",
+  "version": "1.99.1",
   "description": "http proxy middleware for express",
   "engines": {
     "node": ">=6.0.0"
